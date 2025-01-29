@@ -1,0 +1,32 @@
+Amigo Secreto 🎁
+Un aplicativo web simple para organizar sorteos de amigo secreto. Permite ingresar una lista de participantes y realizar un sorteo aleatorio para seleccionar un amigo secreto.
+Características ✨
+
+Interfaz de usuario intuitiva y amigable
+Validación de nombres (sin números)
+Evita duplicados en la lista de participantes
+Sorteo aleatorio entre los participantes
+
+Tecnologías Utilizadas 🛠️
+
+HTML5
+CSS3
+JavaScript Vanilla
+Fuentes de Google Fonts (Inter y Merriweather)
+
+Cómo Usar la Aplicación 📝
+
+Ingresa el nombre de un participante en el campo de texto
+Presiona el botón "Añadir" o la tecla Enter para agregar el participante a la lista
+Repite los pasos 1 y 2 hasta tener todos los participantes (mínimo 2)
+Presiona el botón "Sortear amigo" para realizar el sorteo
+¡El nombre del amigo secreto aparecerá en pantalla!
+
+Validaciones ✅
+El sistema incluye las siguientes validaciones:
+
+No permite campos vacíos
+Solo acepta letras y espacios en los nombres
+No permite nombres duplicados
+Requiere mínimo 2 participantes para realizar el sorteo
+
